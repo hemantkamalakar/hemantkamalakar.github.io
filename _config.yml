@@ -108,8 +108,13 @@ defaults:
       path: ""
       type: docs
     values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
       sidebar:
-        nav: "docs"      
+        nav: "docs"    
 
 category_archive:
   type: liquid
