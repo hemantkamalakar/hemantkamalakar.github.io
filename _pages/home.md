@@ -8,8 +8,13 @@ sidebar:
   nav: "docs"  
 ---
 
-Welcome
+Home
+This page is under development. I'm updating the Home assistant configuration files on a regular basis, but some things may not be up to date.
 
 
+Here is the screenshot 
 
+<a href="https://github.com/hemantkamalakar/haconfigs">
+<img src="https://github.com/hemantkamalakar/haconfigs/raw/master/screenshot.png"/>
+</a>
 
