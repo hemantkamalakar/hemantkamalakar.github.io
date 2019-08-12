@@ -15,9 +15,9 @@ docs:
   - title: Home Assistant
     url: /docs/hass/
   - title: My Smart Home
-    url: /docs/smarthome/
+    url: /docs/smart-home/
   - title: Custom Components
-    url: /docs/custom/   
+    url: /docs/custom-components/   
    
   # - title: Lovelace
   #   url: /docs/lovelace/   
