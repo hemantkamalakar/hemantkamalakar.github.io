@@ -7,3 +7,21 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+
+docs:
+  - title: Home
+    url: /docs/home/
+
+  - title: Home Assistant
+    url: /docs/hass/
+
+  - title: My Smart Home
+    url: /docs/smarthome/
+
+  - title: Custom Components
+    url: /docs/custom/   
+    
+  # - title: Lovelace
+  #   url: /docs/lovelace/   
+
