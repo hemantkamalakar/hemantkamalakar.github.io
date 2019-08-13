@@ -8,7 +8,6 @@ sidebar:
   nav: "docs"  
 ---
 
-Home
 This page is under development. I'm updating the Home assistant configuration files on a regular basis, but some things may not be up to date.
 
 
